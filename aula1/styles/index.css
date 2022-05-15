@@ -1,0 +1,38 @@
+.titulo{
+    background-color: coral;
+    color: white;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Macondo', cursive;
+}
+*{
+    margin: 0;
+}
+.texto{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(21, 12, 59);
+    font-family: 'Macondo', cursive;
+}
+.lista{
+    margin-top: 20px;
+    font-weight: bold;
+    font-style:italic;
+    font-family: 'Macondo', cursive;
+    border:3px outset rebeccapurple;
+
+
+}
+body{
+    background-color:whitesmoke ;
+}
+.carro img{
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 4px outset rgb(126, 105, 97)
+}
+.carro figcaption{
+    margin-left: 20px;
+}
